@@ -1,0 +1,137 @@
+{
+    "mods": [
+        {
+            "name": "Architectury",
+            "url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/ZxYGwlk0/architectury-13.0.8-neoforge.jar"
+        },
+        {
+            "name": "AttributeFix",
+            "url": "https://cdn.modrinth.com/data/lOOpEntO/versions/TyNITLDY/attributefix-neoforge-1.21.1-21.1.3.jar"
+        },
+        {
+            "name": "Better Clouds",
+            "url": "https://cdn.modrinth.com/data/5srFLIaK/versions/wapDaY5q/better-clouds-1.7.19%2B1.21.1-neoforge.jar"
+        },
+        {
+            "name": "Bookshelf",
+            "url": "https://cdn.modrinth.com/data/uy4Cnpcm/versions/1sdJl7J1/bookshelf-neoforge-1.21.1-21.1.81.jar"
+        },
+        {
+            "name": "DistantHorizons",
+            "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/bLPLghy9/DistantHorizons-2.4.5-b-1.21.1-fabric-neoforge.jar"
+        },
+        {
+            "name": "EntityCulling",
+            "url": "https://cdn.modrinth.com/data/NNAgCjsB/versions/LrKSuU8e/entityculling-neoforge-1.10.1-mc1.21.1.jar"
+        },
+        {
+            "name": "Fast IP Ping",
+            "url": "https://cdn.modrinth.com/data/9mtu0sUO/versions/E7QL0wJ2/fast-ip-ping-v1.0.8-mc1.21.1-neoforge.jar"
+        },
+        {
+            "name": "Fzzy Config",
+            "url": "https://cdn.modrinth.com/data/hYykXjDp/versions/MAPG6cXE/fzzy_config-0.7.6%2B1.21%2Bneoforge.jar"
+        },
+        {
+            "name": "Huge Structure Blocks",
+            "url": "https://cdn.modrinth.com/data/AMLtKGdJ/versions/xuv1L2r1/huge-structure-blocks-neoforge-1.1.6.jar"
+        },
+        {
+            "name": "ImmediatelyFast",
+            "url": "https://cdn.modrinth.com/data/5ZwdcRci/versions/PhxY0iHw/ImmediatelyFast-NeoForge-1.6.10%2B1.21.1.jar"
+        },
+        {
+            "name": "Kotlin for Forge",
+            "url": "https://cdn.modrinth.com/data/ordsPcFz/versions/NrSebcsG/kotlinforforge-5.11.0-all.jar"
+        },
+        {
+            "name": "Lintium World Server",
+            "url": "https://cdn.modrinth.com/data/6JSUfQQv/versions/pbBJhZrX/Lintium%20World%20Server%200.0.7.jar?mr_download_reason=standalone"
+        },
+        {
+            "name": "Lithium",
+            "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/RXHf27Wv/lithium-neoforge-0.15.3%2Bmc1.21.1.jar"
+        },
+        {
+            "name": "NBTEdit",
+            "url": "https://cdn.modrinth.com/data/Vr2eDeCw/versions/3Bd21g0j/nbtedit-neoforge-5.2.10.jar"
+        },
+        {
+            "name": "NoHunger",
+            "url": "https://cdn.modrinth.com/data/MT0NuZbD/versions/eEY2NcsB/nohunger-neoforge-1.21-1.3.1.jar"
+        },
+        {
+            "name": "Not Enough Recipe Book",
+            "url": "https://cdn.modrinth.com/data/bQh7xzFq/versions/8SBaRv1t/Not%20Enough%20Recipe%20Book-NEOFORGE-0.4.3%2B1.21.jar"
+        },
+        {
+            "name": "OctoLib",
+            "url": "https://cdn.modrinth.com/data/RH2KUdKJ/versions/AbiyvpxR/OctoLib-NEOFORGE-0.6.1%2B1.21.jar"
+        },
+        {
+            "name": "Overflowing Bars",
+            "url": "https://cdn.modrinth.com/data/XD7XOrAF/versions/PYRrjTaY/OverflowingBars-v21.1.1-1.21.1-NeoForge.jar"
+        },
+        {
+            "name": "Particle Core",
+            "url": "https://cdn.modrinth.com/data/RSeLon5O/versions/2QF4NhZD/particle_core-0.3.3%2B1.21%2Bneoforge.jar"
+        },
+        {
+            "name": "Plasmo Voice",
+            "url": "https://cdn.modrinth.com/data/1bZhdhsH/versions/k1eAJFsl/plasmovoice-neoforge-1.21-2.1.8.jar"
+        },
+        {
+            "name": "Prickle",
+            "url": "https://cdn.modrinth.com/data/aaRl8GiW/versions/EE1FHDyD/prickle-neoforge-1.21.1-21.1.11.jar"
+        },
+        {
+            "name": "PuzzlesLib",
+            "url": "https://cdn.modrinth.com/data/QAGBst4M/versions/EgWWSAhJ/PuzzlesLib-v21.1.39-1.21.1-NeoForge.jar"
+        },
+        {
+            "name": "Reese's Sodium Options",
+            "url": "https://cdn.modrinth.com/data/Bh37bMuy/versions/xAiCe6w8/reeses-sodium-options-neoforge-1.8.3%2Bmc1.21.4.jar"
+        },
+        {
+            "name": "Sodium Extras",
+            "url": "https://cdn.modrinth.com/data/vqqx0QiE/versions/qDEGbszS/sodiumextras-neoforge-1.0.8-1.21.1.jar"
+        },
+        {
+            "name": "Sodium Leaf Culling",
+            "url": "https://cdn.modrinth.com/data/M25bkObt/versions/aatWXjek/sodiumleafculling-neoforge-1.0.1-1.21.1.jar"
+        },
+        {
+            "name": "Sodium",
+            "url": "https://cdn.modrinth.com/data/AANobbMI/versions/Pb3OXVqC/sodium-neoforge-0.6.13%2Bmc1.21.1.jar"
+        },
+        {
+            "name": "Sodium Options API",
+            "url": "https://cdn.modrinth.com/data/Es5v4eyq/versions/lrsX3TMS/sodiumoptionsapi-neoforge-1.0.10-1.21.1.jar"
+        },
+        {
+            "name": "Sodium Options Mod Compat",
+            "url": "https://cdn.modrinth.com/data/Yg1VT27P/versions/iPZbtcZJ/sodiumoptionsmodcompat-neoforge-1.0.0-1.21.1.jar"
+        },
+        {
+            "name": "WorldEdit",
+            "url": "https://cdn.modrinth.com/data/1u6JkXh5/versions/WTAFvuRx/worldedit-mod-7.3.8.jar"
+        },
+        {
+            "name": "Yet Another Config Lib V3",
+            "url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/7TVdVtxF/yet_another_config_lib_v3-3.8.2%2B1.21.1-neoforge.jar"
+        },
+        {
+            "name": "Konkrete",
+            "url": "https://cdn.modrinth.com/data/J81TRJWm/versions/stJDU839/konkrete_neoforge_1.9.9_MC_1.21.jar?mr_download_reason=standalone&mr_game_version=1.21.1&mr_loader=neoforge"
+        },
+        {
+            "name": "Melody",
+            "url": "https://cdn.modrinth.com/data/CVT4pFB2/versions/efcdRVZP/melody_neoforge_1.0.10_MC_1.21.jar?mr_download_reason=dependency&mr_game_version=1.21.1&mr_loader=neoforge"
+        },
+        {
+            "name": "FancyMenu",
+            "url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/ERSQlY78/fancymenu_neoforge_3.9.0_MC_1.21.1.jar?mr_download_reason=standalone&mr_game_version=1.21.1&mr_loader=neoforge"
+        }        
+                
+    ]
+}
