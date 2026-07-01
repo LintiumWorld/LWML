@@ -131,7 +131,12 @@
         {
             "name": "FancyMenu",
             "url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/ERSQlY78/fancymenu_neoforge_3.9.0_MC_1.21.1.jar?mr_download_reason=standalone&mr_game_version=1.21.1&mr_loader=neoforge"
-        }        
-                
+        },
+        {
+            "name": "Конфиги и настройки",
+            "url": "https://raw.githubusercontent.com/LintiumWorld/LWML/main/LWS.zip",
+            "type": "archive",
+            "extract_to": "root"
+        }
     ]
 }
