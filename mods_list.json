@@ -138,11 +138,5 @@
             "type": "archive",
             "extract_to": "root"
         }
-        {
-            "name": "Доп моды",
-            "url": "https://raw.githubusercontent.com/LintiumWorld/LWML/main/LWS.zip",
-            "type": "archive",
-            "extract_to": "root"
-        }
     ]
 }
