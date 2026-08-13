@@ -133,6 +133,26 @@
             "url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/ERSQlY78/fancymenu_neoforge_3.9.0_MC_1.21.1.jar?mr_download_reason=standalone&mr_game_version=1.21.1&mr_loader=neoforge"
         },
         {
+            "name": "ainpc",
+            "url": "https://www.curseforge.com/api/v1/mods/1624879/files/8506441/download"
+        },
+        {
+            "name": "npcplus",
+            "url": "https://www.curseforge.com/api/v1/mods/1624308/files/8615242/download"
+        },
+        {
+            "name": "CustomNPCs-Unofficial",
+            "url": "https://www.curseforge.com/api/v1/mods/1052708/files/7411561/download"
+        },
+        {
+            "name": "Gnpc",
+            "url": "https://www.curseforge.com/api/v1/mods/1624308/files/8615242/download"
+        },
+        {
+            "name": "Geco",
+            "url": "https://www.curseforge.com/api/v1/mods/388172/files/8350073/download"
+        },
+        {
             "name": "Конфиги и настройки",
             "url": "https://raw.githubusercontent.com/LintiumWorld/LWML/main/LWS.zip",
             "type": "archive",
