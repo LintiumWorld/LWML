@@ -205,7 +205,7 @@
     },
     {
       "path": "configs.zip",
-      "url": "https://raw.githubusercontent.com/LintiumWorld/LWML/main/LWS.zip",
+      "url": "https://raw.githubusercontent.com/LintiumWorld/LWML/main/modpacks/rp_server/LWS.zip",
       "sha256": "c6b7b903f04c34a4b492868b7f5722bc4acec6ce314c69313202e187e4b56be9",
       "size": 15680181,
       "extract_to": "root"
