@@ -1,0 +1,18 @@
+[
+  {
+    "id": "rp_server",
+    "name": "RP Server",
+    "description": "Основной MMO-RPG сервер LintiumWorld. Кастомные квесты, профессии, кланы, ивенты и большой открытый мир.",
+    "icon": "modpacks/rp_server/icon.png",
+    "screenshots": [
+      "modpacks/rp_server/screen_1.png",
+      "modpacks/rp_server/screen_2.png"
+    ],
+    "version": "1.0.0",
+    "mcVersion": "1.21.1",
+    "loader": "neoforge",
+    "loaderVersion": "21.1.248",
+    "isPrivate": false,
+    "tags": ["RP", "MMO"]
+  }
+]
