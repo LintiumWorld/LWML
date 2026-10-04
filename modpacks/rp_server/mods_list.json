@@ -202,13 +202,6 @@
       "url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/ERSQlY78/fancymenu_neoforge_3.9.0_MC_1.21.1.jar?mr_download_reason=standalone&mr_game_version=1.21.1&mr_loader=neoforge",
       "sha256": "0d562ad4b89b962082210258bebd8db39dba8b8218ad6d8cbb4d023fd811161c",
       "size": 25346263
-    },
-    {
-      "path": "configs.zip",
-      "url": "https://raw.githubusercontent.com/LintiumWorld/LWML/main/modpacks/rp_server/LWS.zip",
-      "sha256": "c6b7b903f04c34a4b492868b7f5722bc4acec6ce314c69313202e187e4b56be9",
-      "size": 15680181,
-      "extract_to": "root"
     }
   ]
 }
